@@ -1,0 +1,10 @@
+requests==2.11.1
+pytest >= 3.0.0
+py>=1.4.33
+pytest-xdist
+pytest-rerunfailures==0.05
+pytest-instafail==0.3.0
+pytest-timeout==0.3
+pycrypto==2.6.1
+pytest-html==1.13.0
+jsonschema
